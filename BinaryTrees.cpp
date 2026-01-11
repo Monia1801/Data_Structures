@@ -78,6 +78,5 @@ int main(){
   for(auto i:order){
     for(auto j:i) cout<<j<<" ";
   }
-
   return 0;
 }
